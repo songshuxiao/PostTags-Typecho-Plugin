@@ -9,11 +9,11 @@ Typecho后台文章列表：标签显示 + 快速添加标签插件
 
 ![文章管理列表](./images/typecho-posttags-screenshot.jpg)
 
-插件设置里有标签显示样式、最大显示标签数和标签列位置设置
+插件设置里有标签显示样式、最大显示标签数和标签列位置设置。
 
 ![插件设置](./images/typecho-posttags-settings.jpg)
 
-本插件由AI大模型： [智谱清言][1] 编写
+本插件由AI大模型： [智谱清言][1] 编写。
 
 
   [1]:https://chatglm.cn/
