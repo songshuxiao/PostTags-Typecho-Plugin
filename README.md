@@ -10,7 +10,7 @@ Typecho后台文章列表：文章标签 + 缩略名快捷编辑插件
 ![文章管理列表](./images/typecho-posttags-screenshot.jpg)
 
 
-支持缩略名快捷编辑。
+支持后台文章管理列表页缩略名显示和快捷编辑。
 ![文章管理列表](./images/typecho-posttags-slug.jpg)
 
 插件设置里有标签显示样式、最大显示标签数和标签列位置设置。
