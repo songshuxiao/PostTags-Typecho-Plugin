@@ -1,5 +1,5 @@
 # PostTags-Typecho-Plugin
-Typecho后台文章列表：标签显示 + 快速添加标签插件
+Typecho后台文章列表：文章标签 + 缩略名快捷编辑插件
 
 适配Typecho 1.3.0 + PHP 8.4
 
@@ -8,6 +8,10 @@ Typecho后台文章列表：标签显示 + 快速添加标签插件
 通过下拉选框快速为文章添加已有标签。
 
 ![文章管理列表](./images/typecho-posttags-screenshot.jpg)
+
+
+支持缩略名快捷编辑。
+![文章管理列表](./images/typecho-posttags-slug.jpg)
 
 插件设置里有标签显示样式、最大显示标签数和标签列位置设置。
 
